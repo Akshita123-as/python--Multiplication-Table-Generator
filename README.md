@@ -21,3 +21,6 @@ Output:
 5 x 2 = 10
 ....
 5 x 12 = 60
+
+Here is the screenshot of the output:
+https://github.com/Akshita123-as/python--Multiplication-Table-Generator/blob/main/Screenshot%20(30).png
